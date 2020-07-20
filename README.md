@@ -72,8 +72,17 @@ and Android apps
  
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributor)
 
-## ➤ Java Project-1 Coffe Machine
-  [Github Code Link](https://github.com/CSElonewolf/PHP-Projects/tree/master/PHP%20Project-1)
+## ➤ Java Project-1 Coffee Machine
+
+* **Learning Outcome**
+```
+This project allows you to get a taste of Java.
+Practice working with classes, challenge 
+yourself with loops and conditions,
+and get more confident in Java.
+```
+
+  [Github Code Link](https://github.com/CSElonewolf/Java-Projects/tree/master/JavaProject-1(Coffee%20Machine))
   
 <p align="center">
   <img src="https://github.com/CSElonewolf/Java-Projects/blob/master/ReadmeImages/coffemachinegif.gif" alt="Demo" width="800" />
